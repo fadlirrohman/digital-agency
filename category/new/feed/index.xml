@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>New &#8211; Digital agency</title>
+	<atom:link href="https://fadlirrohman.github.io/digital-agency/category/new/feed/" rel="self" type="application/rss+xml" />
+	<link>https://fadlirrohman.github.io/digital-agency</link>
+	<description>Yet another awesome website by Phlox theme.</description>
+	<lastBuildDate>Tue, 29 Mar 2022 03:36:07 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.9.2</generator>
+
+<image>
+	<url>https://fadlirrohman.github.io/digital-agency/wp-content/uploads/2022/03/cropped-download-32x32.png</url>
+	<title>New &#8211; Digital agency</title>
+	<link>https://fadlirrohman.github.io/digital-agency</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Apa Itu Firebase? Kenalan Yuk Sama Pengertian dan Fungsinya!</title>
+		<link>https://fadlirrohman.github.io/digital-agency/apa-itu-firebase-kenalan-yuk-sama-pengertian-dan-fungsinya/</link>
+					<comments>https://fadlirrohman.github.io/digital-agency/apa-itu-firebase-kenalan-yuk-sama-pengertian-dan-fungsinya/#respond</comments>
+		
+		<dc:creator><![CDATA[digitaladmin]]></dc:creator>
+		<pubDate>Wed, 23 Mar 2022 06:17:45 +0000</pubDate>
+				<category><![CDATA[New]]></category>
+		<guid isPermaLink="false">https://fadlirrohman.github.io/digital-agency/?p=159</guid>
+
+					<description><![CDATA[Sebagai developer yang kesehariannya nggak pernah lepas dari bagaimana caranya mengembangkan sebuah software dan aplikasi, kamu pasti udah familiar banget sama salah satu sistem database berbasis NoSQL. Salah satu database berbasis NoSQL yang paling digemari oleh para developer adalah Firebase. Selama beberapa tahun terakhir perkembangan Firebase udah semakin terkenal di kalangan developer dunia, termasuk Indonesia [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>Sebagai developer yang kesehariannya nggak pernah lepas dari bagaimana caranya mengembangkan sebuah software dan aplikasi, kamu pasti udah familiar banget sama salah satu sistem database berbasis NoSQL. Salah satu database berbasis NoSQL yang paling digemari oleh para developer adalah Firebase. Selama beberapa tahun terakhir perkembangan Firebase udah semakin terkenal di kalangan developer dunia, termasuk Indonesia loh kisanak!<br></p>
+
+
+
+<p>Walaupun banyak di antara developer yang udah pakai Firebase, pasti masih banyak juga nih yang belum tau apa itu Firebase. Kebetulan banget hari ini Qatros Teknologi Nusantara mau bahas tentang Firebase besutan dari Google. Yuk simak yuk!<br></p>
+
+
+
+<p><strong>Apa itu Firebase?</strong><br></p>
+
+
+
+<p>Seperti yang udah Qatros sebutkan di atas, Firebase adalah sebuah layanan baru yang dirilis oleh Google. Firebase merupakan sebuah sistem database berbasis NoSQL yang dibuat Google dengan tujuan untuk memberikan kemudahan untuk developer aplikasi dalam proses mengembangkan aplikasi mereka.<br></p>
+
+
+
+<p>Firebase yang merupakaan BaaS atau Backend as a Service ini bisa dibilang adalah sebuah solusi dari Google untuk mempercepat pekerjaan developer aplikasi loh! Kenapa kok gitu sichhh? Ya karena dengan hadirnya Firebase ini, para developer nggak perlu jadi super <em>effortfu</em>l untuk ngurusin urusan backend.<br></p>
+
+
+
+<p><strong>Penasaran nggak sih kapan Firebase ini ditemukan dan dibuat sama siapa ya kira-kira?</strong><br></p>
+
+
+
+<p>Nggookhey kisanak kita mulai perjalanan sejarahnya, Firebase ini pertama kali didirikan oleh Andrew Lee dan James Tamplin pada tahun 2011 dengan Realtime Database sebagai produk pertamanya. Sebagai produk pertamanya, Realtime Database digunakan developer untuk menyimpan data dan melakukan sinkronisasi ke banyak user sekaligus. Lambat laun, Realtime Database berkembang menjadi sebuah layanan pengembangan aplikasi. Sampai pada Oktober 2014, perusahaan besutan Andrew dan James ini diakuisisi oleh Google.<br></p>
+
+
+
+<p>Hingga saat ini, Firebase udah punya dua pilihan layanan yang bisa kamu pakai. Dua layanan ini adalah SPARK (untuk menggunakan layanan secara gratis) dan BLAZE (untuk menggunakan layanan premium berbayar). Siapa di sini yang udah coba Firebase?<br></p>
+
+
+
+<p><strong>Apa Aja Sih Jenis dan Fitur yang dimiliki Firebase?</strong><br></p>
+
+
+
+<p><strong>1. Firebase Analytics</strong><br></p>
+
+
+
+<p>Mirip-mirip sama Google Analytics, Firebase Analytics ini adalah salah satu fitur Firebase yang digunakan sebagai koleksi data dan reporting untuk aplikasi Android dan iOS. Kisanak bisa banget mengolah data yang ada di sini untuk dibuat laporan. Selain itu dengan fitur ini kisanak bisa membuat segmentasi user berdasarkan user attribute loh!<br></p>
+
+
+
+<p><strong>2. Firebase Cloud Messaging dan Notifications</strong></p>
+
+
+
+<p><strong><br></strong>Firebase Cloud Messaging atau yang biasa dikenal sebagai FCM adalah fitur Firebase yang menyediakan koneksi antar server dan device. Dengan Firebase Cloud Messaging, kisanak bisa mengirim dan menerima pesan. Nggak cuma itu aja, dengan Firebase Cloud Messaging juga memungkinkan untuk memberikan notifikasi di device dan web tanpa harus memakan biaya.</p>
+
+
+
+<p><strong>3. Firebase Authentication</strong><br></p>
+
+
+
+<p>Kalau yang satu ini adalah salah satu layanan backend untuk fitur Android dan iOS. Fitur ini berfungsi untuk melakukan autentifikasi pengguna ke aplikasi yang dibuat oleh developer. Firebase Authentication ini mendukung autentifikasi menggunakan nomer telepon, password, dan lain-lain. Selain itu Firebase Authentication juga terintegrasi dengan fitur layanan Firebase lainnya. Paket lengkap nih!&nbsp;<br></p>
+
+
+
+<p><strong>5. Firebase Cloud Firestore</strong><br></p>
+
+
+
+<p>Fitur lainnya yang dimiliki Firebase adalah Firebase Cloud Firestore yang merupakan sebuah database fleksibel dan terukur untuk pengembangan perangkat. Dengan fitur Firebase Cloud Firestore, kamu bisa membuat data tetap terkoneksi di aplikasi user menggunakan listener realtime. Firebase Cloud Firestore juga merupakan database NoSQL yang dihosting di cloud loh kisanak!</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://fadlirrohman.github.io/digital-agency/apa-itu-firebase-kenalan-yuk-sama-pengertian-dan-fungsinya/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
